@@ -1,4 +1,4 @@
-# glados-checkin
+# glados-checkin 修改触发
   每天自动签到（天数+1），自动推送结果  
 
 # clash 使用教程：  
